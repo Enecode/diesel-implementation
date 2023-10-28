@@ -1,4 +1,4 @@
-# Disel-Implementation
+# Diesel-Implementation
 
 A backend server build with with Django Framework that can handle HTTP requests efficiently. The server will receive data from a sensors, validate it, and store it in the database.
 
