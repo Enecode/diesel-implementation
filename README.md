@@ -18,8 +18,28 @@ A backend server build with with Django Framework that can handle HTTP requests 
 ```
 git clone https://github.com/Enecode/diesel-implementation.git
 ```
+3. create a virtual environment and activate it (linux)
 
-2. Install the requirements
+```
+python -m venv venv
+```
+for windows
+```
+python -m venv venv
+```
+
+activate the virtual environment (linux)
+
+```
+source venv/bin/activate
+```
+
+for windows
+```
+venv\Scripts\activate
+```
+
+1. Install the requirements
 
 ```
 pip install -r requirements.txt
